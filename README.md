@@ -1,10 +1,6 @@
 ### Yoo, I'm Do1e 👋
 
-<center>
-
-[![wakatime](https://wakatime.com/badge/user/d2554b48-8dde-4338-baba-1882d2f860ec.svg)](https://wakatime.com/@d2554b48-8dde-4338-baba-1882d2f860ec)
-
-</center>
+[![wakatime](https://wakatime.com/badge/user/d2554b48-8dde-4338-baba-1882d2f860ec.svg)](https://wakatime.com/@Do1e)
 
 - I'm an undergraduate student at 🇨🇳 [NJU](https://www.nju.edu.cn/), major in communication engineering.
 - I'm reasearching on **AE** and **CV**.
