@@ -1,20 +1,17 @@
 ### Yoo, I'm Do1e 👋
 
-undergraduate student at 🇨🇳 [NJU](https://www.nju.edu.cn/), major in communication engineering
+<center>
+
+[![wakatime](https://wakatime.com/badge/user/d2554b48-8dde-4338-baba-1882d2f860ec.svg)](https://wakatime.com/@d2554b48-8dde-4338-baba-1882d2f860ec)
+
+</center>
+
+- I'm an undergraduate student at 🇨🇳 [NJU](https://www.nju.edu.cn/), major in communication engineering.
+- I'm reasearching on **AE** and **CV**.
+- My main coding language is **Python**, but I'm also familiar with C, C++, MATLAB.
 
 [![My Github Data](https://github-readme-stats.vercel.app/api?username=Do1e)](https://github.com/Do1e)
 
 #### My Coding Activity over Last 7 Days
-<!--START_SECTION:waka-->
 
-```text
-Total Time: 31 hrs 21 mins
-
-Python       24 hrs          >>>>>>>>>>>>>>>>>>-------   73.59 %
-Markdown     3 hrs 9 mins    >>-----------------------   09.69 %
-JSON         1 hr 47 mins    >------------------------   05.50 %
-Log File     1 hr 38 mins    >------------------------   05.02 %
-Other        1 hr 17 mins    >------------------------   03.93 %
-```
-
-<!--END_SECTION:waka-->
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Do1e)](https://wakatime.com/@Do1e)
