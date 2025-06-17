@@ -7,4 +7,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/d2554b48-8dde-4338-baba-1882d2f860ec.svg)](https://wakatime.com/@Do1e)
 
-[![My Github Data]([https://github-readme-stats.vercel.app/api?username=Do1e](https://github-readme-stats.vercel.app/api?username=Do1e&show_icons=true&theme=transparent))](https://github.com/Do1e)
+[![My Github Data](https://github-readme-stats.vercel.app/api?username=Do1e&show_icons=true&theme=transparent)](https://github.com/Do1e)
